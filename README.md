@@ -38,7 +38,7 @@ go build -o hoehat main.go
 
 ## Disclaimer
 
-Please use this tool responsibly and ethically. Unauthorized or malicious use of this tool may violate terms of service and laws in your region. The creator and contributors of this tool are not responsible for any misuse or illegal activities.
+Please use this tool to fuck with people, its why it was created
 
 ## License
 
