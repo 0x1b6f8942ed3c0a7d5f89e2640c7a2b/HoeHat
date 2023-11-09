@@ -116,7 +116,7 @@ func createPayment(target string) string {
 	req.Header.SetMethod("POST")
 	req.SetRequestURI("https://hihat.io/api/purchase_donation?")
 	req.Header.Set("Content-Type", "application/x-www-form-urlencoded")
-	req.SetBodyString(string("PATH=" + target + "&senderName=PayT4ke&amount=" + strconv.Itoa(rand.Intn(22200)) + "&message=&number=070" + strconv.Itoa(rand.Intn(6505038)) + "&type=message"))
+	req.SetBodyString(string("PATH=" + target + "&senderName=PayT4ke&amount=" + strconv.Itoa(rand.Intn(22200)) + "&message=&number=070" + strconv.Itoa(rand.Intn(9999999)) + "&type=message"))
 	fasthttp.Do(req, resp)
 	var userMap map[string]interface{}
 
