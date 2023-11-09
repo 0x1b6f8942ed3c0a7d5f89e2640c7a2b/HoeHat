@@ -2,8 +2,7 @@
 ```markdown
 # Hoehat
 
-Hoehat is a Golang tool designed for interacting with the hihat.io donation platform. It allows you to simulate fake donations and observe the reactions from the platform. Please use this tool responsibly and only in a legal and ethical manner.
-
+Hoehat is a Golang tool designed for interacting with the hihat.io donation platform. It allows you to simulate fake donations and observe the reactions from the platform. 
 ## Features
 
 - Create fake donations with custom parameters.
