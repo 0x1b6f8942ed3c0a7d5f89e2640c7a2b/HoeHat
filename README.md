@@ -39,9 +39,5 @@ go build -o hoehat main.go
 
 Please use this tool to fuck with people, its why it was created
 
-## License
-
-This tool is distributed under the [MIT License](LICENSE).
-
 ```
 
