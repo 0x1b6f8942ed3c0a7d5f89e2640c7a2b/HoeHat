@@ -45,4 +45,3 @@ This tool is distributed under the [MIT License](LICENSE).
 
 ```
 
-You can modify this template according to your specific tool's features and usage instructions. Make sure to provide a clear disclaimer about the responsible use of the tool and specify the license you want to distribute it under.
